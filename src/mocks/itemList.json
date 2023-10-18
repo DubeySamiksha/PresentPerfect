@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23455388/2023/5/29/95564ccf-b8d9-40ac-90d8-e937b59ab9061685344421367ArtificialFlowersandPlants1.jpg",
+    "brand": "Bs Amor",
+    "product": "Artificial Flowers and Plants",
+    "price": 37900,
+    "quantityInStock": 2,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21730258/2023/2/9/950c1a50-679a-447a-b5f4-c138bcccdb381675921200379-TIED-RIBBONS-White-4-Pieces-Artificial-Pampas-Grass-88116759-1.jpg",
+    "brand": "Tied Ribbons",
+    "product": "4 Pcs Artificial Pampas Grass",
+    "price": 59400,
+    "quantityInStock": 1,
+    "rating": 3
+  }
+]
